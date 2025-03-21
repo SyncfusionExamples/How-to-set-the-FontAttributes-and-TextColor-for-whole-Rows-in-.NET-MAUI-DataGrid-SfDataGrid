@@ -1,6 +1,6 @@
 # How to set the FontAttributes and TextColor for whole Rows in .NET MAUI DataGrid (SfDataGrid) ?
 
-In this article, we will show you how to set the FontAttributes and TextColor for whole Rows in in [.NET MAUI DataGrid](https://www.syncfusion.com/maui-controls/maui-datagrid).
+In this article, we will show you how to set the FontAttributes and TextColor for whole Rows in [.NET MAUI DataGrid](https://www.syncfusion.com/maui-controls/maui-datagrid).
 
 ## Xaml
 ```
